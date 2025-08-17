@@ -1,0 +1,7 @@
+.carouselText {
+  transition: transform 0.5s ease, opacity 0.5s ease;
+}
+
+.carouselImage {
+  transition: opacity 0.5s ease;
+}
